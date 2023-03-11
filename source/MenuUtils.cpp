@@ -22,7 +22,6 @@ const char *autoboot_config_strings[] = {
         "homebrew_launcher",
         "vwii_system_menu",
         "vwii_homebrew_channel",
-        "vwii_nintendont",
 };
 
 template<typename... Args>
